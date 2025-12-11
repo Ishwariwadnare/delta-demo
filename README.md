@@ -1,2 +1,2 @@
 # delta-demo
-it is create for video leacture practice session.//
+it is create for video leacture practice session.//oo
